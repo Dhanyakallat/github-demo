@@ -1,2 +1,4 @@
-# github-demo
-A simple demo rep
+# startter wb project
+## Introduction
+## purpose
+## how to contribute

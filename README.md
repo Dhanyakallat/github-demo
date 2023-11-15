@@ -3,7 +3,9 @@ This web projec is mailny for visualizing the dtails
 ## Introduction
 ## i delelted purpose
 adding the details
+this details adding from conflict branch
 ## how to contribute
+the details adding from conflict branch
 
 New barch created titile
 adding new line for new brach add-copy

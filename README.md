@@ -8,3 +8,4 @@ adding the details
 New barch created titile
 adding new line for new brach add-copy
 adding changes for simple-changes  but not in that branch 
+adding changes fro sample1 branch

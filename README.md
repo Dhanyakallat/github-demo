@@ -3,8 +3,9 @@ This web projec is mailny for visualizing the dtails
 ## Introduction
 ## i delelted purpose
 adding the details
+this details adding from main
 ## how to contribute
-
+This details adding from main
 New barch created titile
 adding new line for new brach add-copy
 adding changes for simple-changes  but not in that branch 

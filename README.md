@@ -1,4 +1,4 @@
 # startter wb project
 ## Introduction
-## purpose
+## i delelted purpose
 ## how to contribute
